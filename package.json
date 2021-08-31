@@ -17,6 +17,12 @@
         "y18n": "~> 4.0.1",
         "lodash": "~> 4.17.21",
         "hosted-git-info": "~> 2.8.9",
-        "glob-parent": "~> 5.1.2"
+        "glob-parent": "~> 5.1.2",
+	"node-notifier": "~> 8.0.1",
+	"y18n": "~> 4.0.1",
+	"lodash": "~> 4.17.21",
+	"hosted-git-info": "~> 2.8.9",
+	"ws": "~> 7.4.6",
+	"path-parse": "~> 1.0.7"
     }
 }
