@@ -13,7 +13,7 @@
         "mocha": "^8.1.1",
         "prettier": "^2.0.5"
     },
-    "resolves": {
+    "resolutions": {
         "y18n": "~> 4.0.1",
         "lodash": "~> 4.17.21",
         "hosted-git-info": "~> 2.8.9",
