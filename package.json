@@ -12,7 +12,7 @@
         "eslint": "^7.7.0",
         "mocha": "^8.1.1",
         "prettier": "^2.0.5",
-	"@babel/traverse": "~> 7.23.2"
+	"@babel/traverse": "~> 7.25.3"
     },
     "resolutions": {
 	"word-wrap": "~> 1.2.4",
