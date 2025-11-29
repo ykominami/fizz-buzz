@@ -8,9 +8,9 @@
     },
     "license": "MIT",
     "devDependencies": {
-        "@cybozu/eslint-config": "^24.0.0",
-        "eslint": "^9.38.0",
-        "mocha": "^11.7.2",
+        "@cybozu/eslint-config": "^25.0.0",
+        "eslint": "^9.39.1",
+        "mocha": "^11.7.5",
         "prettier": "^3.6.2",
 	"@babel/traverse": "~> 7.28.5"
     },
