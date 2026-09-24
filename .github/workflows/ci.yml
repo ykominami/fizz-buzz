@@ -11,10 +11,10 @@ jobs:
     steps:
       - name: CHeckout
         uses: actions/checkout@v4.1.7
-      - name: Set Node.js 12.x
+      - name: Set Node.js 20.x
         uses: actions/setup-node@v4
         with:
-          node-version: 12.x
+          node-version: 20.x
       - name: Install dependencies
         run: npm i
       - name: Test
@@ -25,10 +25,10 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4.1.7
-      - name: Set Node.js 12.x
+      - name: Set Node.js 20.x
         uses: actions/setup-node@v4
         with:
-          node-version: 12.x
+          node-version: 20.x
       - name: Install dependencies
         run: npm i
       - name: Lint
