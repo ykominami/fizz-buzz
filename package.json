@@ -11,7 +11,7 @@
         "@cybozu/eslint-config": "^26.0.1",
         "eslint": "^10.10.0",
         "mocha": "^12.0.2",
-        "prettier": "^3.9.6",
+        "prettier": "^3.9.8",
 	"@babel/traverse": "~> 8.0.5"
     },
     "resolutions": {
